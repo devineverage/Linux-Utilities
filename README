@@ -1,0 +1,18 @@
+Devin Everage
+ 
+
+In order to compile each file, use:
+
+$ make filename
+
+In order to run each file, use:
+
+$ ./filename
+
+For any arguments, simply use '-' and then the argument (i.e. ./ls -a)
+
+If there is more than one argument, please put them together (i.e. ./ls -la)
+instead of putting them apart (i.e. ./ls -l -a)
+
+When specifying a directory in the arguments, please be sure to put a '/' at
+the end of the pathname. (i.e. ./ls /home/ugrads/everage/ )

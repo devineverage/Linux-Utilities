@@ -1,0 +1,21 @@
+Everage-Devin-p3:
+total 100
+-rw-r--r--. 1 ugrad  3587 Nov 10 07:36 cal.cpp
+-rw-r--r--. 1 ugrad  4688 Nov 10 07:36 cksum.cpp
+-rw-r--r--. 1 ugrad   986 Nov 10 07:36 date.cpp
+-rw-r--r--. 1 ugrad   237 Nov  9 13:50 env.cpp
+-rw-r--r--. 1 ugrad   115 Nov  9 13:50 false.cpp
+-rw-r--r--. 1 ugrad  2749 Nov 10 07:36 head.cpp
+-rw-r--r--. 1 ugrad   150 Nov 10 00:11 hold.txt
+-rw-r--r--. 1 ugrad   694 Nov  9 13:50 ln.cpp
+-rw-r--r--. 1 ugrad 17445 Nov 10 07:36 ls.cpp
+-rw-r--r--. 1 ugrad  1484 Nov 10 07:36 Makefile
+-rw-r--r--. 1 ugrad  1988 Nov 10 07:38 mkdir.cpp
+-rw-r--r--. 1 ugrad   461 Nov  7 23:50 README
+-rw-r--r--. 1 ugrad     0 Nov 10 07:39 rec12283
+-rw-r--r--. 1 ugrad  1813 Nov  7 23:51 rec56513
+-rw-r--r--. 1 ugrad    82 Nov 10 05:54 somen.txt
+-rw-r--r--. 1 ugrad  5547 Nov 10 07:36 tail.cpp
+-rw-r--r--. 1 ugrad   114 Nov  9 13:52 true.cpp
+-rw-r--r--. 1 ugrad 10022 Nov 10 07:37 wc.cpp
+/home/ugrads/everage/Everage-Devin-p3:/home/work/cs1730a
